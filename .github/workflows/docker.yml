@@ -10,7 +10,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  REGISTRY_IMAGE: xxroot/subconverter
+  REGISTRY_IMAGE: cjroot/subconverter
 
 jobs:
   build:
